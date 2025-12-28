@@ -28,4 +28,6 @@ Unauthorized access to comment data of other products.
 Implement server-side authorization checks.
 Do not trust client-supplied identifiers.
 
+
+
 ![IDOR Read PoC](screenshots/idor-read-poc.png)
