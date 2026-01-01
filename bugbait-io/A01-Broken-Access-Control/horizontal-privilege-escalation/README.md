@@ -36,7 +36,8 @@ same privilege level can access or modify each other’s data.
 3. Forward the request without modification.
 4. Observe that the response contains comments associated with **other user IDs**.
 
-![Horizontal Read PoC](./screenshothorizontal-read-poc.png)
+
+![Horizontal Read PoC](./screenshots/horizontal-read-poc.png)
 
 
 
