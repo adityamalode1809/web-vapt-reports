@@ -21,6 +21,9 @@ product_id parameter and read comments of other products.
 3. Change product_id to another value
 4. Server returns unauthorized data
 
+
+![IDOR Read PoC](screenshots/idor-read-poc.png)
+
 ## Impact
 Unauthorized access to comment data of other products.
 
@@ -30,4 +33,4 @@ Do not trust client-supplied identifiers.
 
 
 
-![IDOR Read PoC](screenshots/idor-read-poc.png)
+
