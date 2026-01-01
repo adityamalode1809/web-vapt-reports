@@ -29,7 +29,7 @@ restricted to an explicit allowlist.
    request was processed successfully.
    
   ![Mass Assignment PoC](screenshots/mass-assignment-poc.png)
-
+  
 
 ## Impact
 
