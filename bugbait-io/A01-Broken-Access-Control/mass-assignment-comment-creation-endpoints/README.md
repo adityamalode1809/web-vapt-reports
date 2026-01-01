@@ -27,6 +27,9 @@ restricted to an explicit allowlist.
 4. Forward the request to the server.
 5. Observe that the server responds with HTTP 201 Created, confirming that the
    request was processed successfully.
+   
+  ![Mass Assignment PoC](screenshots/mass-assignment-poc.png)
+
 
 ## Impact
 
