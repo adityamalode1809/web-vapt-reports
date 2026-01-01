@@ -30,7 +30,8 @@ leading to unauthorized write actions.
 5. Observe that the server responds with **HTTP 201 Created**, confirming
 unauthorized comment creation.
 
- 
+ ![IDOR Unauthorized Write PoC](./screenshots/idor-write-poc.png)
+
 
 
 
