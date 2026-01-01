@@ -12,7 +12,7 @@ vulnerable application, focusing on OWASP Top 10 – 2025.
 ## Methodology
 - Manual testing using Burp Suite
 - Server-side authorization validation
-- Realistic pentester-style documentation
+ 
 
 ## Disclaimer
 This project was performed on an intentionally vulnerable application
