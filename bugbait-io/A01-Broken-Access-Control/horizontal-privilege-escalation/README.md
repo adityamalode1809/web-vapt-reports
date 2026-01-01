@@ -36,7 +36,7 @@ same privilege level can access or modify each other’s data.
 3. Forward the request without modification.
 4. Observe that the response contains comments associated with **other user IDs**.
 
-![Horizontal Read PoC](horizontal-read-poc.png)
+![Horizontal Read PoC](./screenshothorizontal-read-poc.png)
 
 
 
@@ -47,7 +47,7 @@ same privilege level can access or modify each other’s data.
 3. Forward the request to the server.
 4. Observe that the server responds with **HTTP 201 Created**.
 
-![Horizontal Write PoC](./screenshots/horizontal-write-poc.png)
+![Horizontal Write PoC](./screenshot/horizontal-write-poc.png)
 
 
 
