@@ -45,7 +45,7 @@ https://i.postimg.cc/
 
 ![External Font Resources](./screenshot/external-fonts.png)
 
-![External Image Hosting](./screenshot/external-images.png)
+![External Image Hosting](external-image-hosting.png)
 
 
 
