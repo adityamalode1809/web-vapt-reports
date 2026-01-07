@@ -29,7 +29,7 @@ leaving the first request vulnerable on untrusted networks.
 6. Access the application using `http://` and observe that it relies only on
    redirection, not browser-level enforcement.
 
-![Missing HSTS Header](./screenshots/missing-hsts-header.png)
+![Missing HSTS Header](./screenshot/missing-hsts-header.png)
 
 
 
