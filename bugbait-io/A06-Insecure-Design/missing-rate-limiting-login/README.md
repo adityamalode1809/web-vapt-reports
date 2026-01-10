@@ -50,9 +50,5 @@ abuse were not considered during the application design phase.
 - Apply monitoring and alerting for abnormal authentication behavior.
 - Include abuse prevention and threat modeling during authentication design.
 
----
 
-## Disclaimer
-
-This testing was performed on an intentionally vulnerable application for
-educational purposes only.
+ 
