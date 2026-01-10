@@ -4,7 +4,7 @@ Category: A06:2025 – Insecure Design
 Severity: Medium  
 Affected Endpoint: `POST /v1/auth/login`
 
----
+
 
 ## Description
 
@@ -18,7 +18,7 @@ account lockout, temporary blocking, or request throttling.
 This indicates that security controls against brute-force and automated
 abuse were not considered during the application design phase.
 
----
+
 
 ## Proof of Concept (PoC)
 
@@ -31,7 +31,7 @@ abuse were not considered during the application design phase.
 
 ![Missing Rate Limiting PoC](./screenshot/missing-rate-limit-login.png)
 
----
+
 
 ## Impact
 
@@ -40,7 +40,7 @@ abuse were not considered during the application design phase.
 - Increases risk of account takeover.
 - Facilitates automated abuse and potential service degradation.
 
----
+
 
 ## Recommendation
 
