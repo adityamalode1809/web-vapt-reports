@@ -29,7 +29,7 @@ state handling between backend updates and session/frontend state.
 5. Note that the updated data is not reflected immediately.
 6. Logout and login again to observe the updated profile data.
 
-![Profile Update Session Sync PoC](./screenshot/profile-update-session-sync.png)
+![Profile Update Session Sync PoC](./screenshot/profile-update-multiple-submission.png)
 
 
 
