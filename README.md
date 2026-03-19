@@ -4,7 +4,7 @@ This repository contains structured Web Application Vulnerability Assessment and
 
 The objective of this repository is to document security vulnerabilities, proof of concepts (PoCs), impact analysis, and remediation recommendations in a professional reporting format.
 
----
+--- 
 
 ## 📌 Assessment Scope 
 
