@@ -6,7 +6,7 @@ The objective of this repository is to document security vulnerabilities, proof 
 
 --- 
 
-## 📌 Assessment Scope 
+## 📌 Assessment Scope  
 
 Target Application: Bugbait.io  
 Assessment Type: Web Application Security Testing  
